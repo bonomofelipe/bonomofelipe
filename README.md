@@ -16,7 +16,7 @@ Hello there! My name is Felipe Bonomo and I've started working with QA Automatio
 🔎Spoken languages here:
 
 
-    English: advanced | Portuguese: native
+    English: Fluent | Portuguese: Native
     
 
 🔎My social networks: 
