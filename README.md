@@ -1,16 +1,25 @@
-### Hi there 👋
+Hello there! My name is Felipe Bonomo and I've started working with QA Automation in April/2021.
 
-<!--
-**bonomofelipe/bonomofelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔎The technologies I am currently studying:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    JUnit | Cucumber | Postman | Jira | JMeter | Selenium |
+
+
+🔎Languages and Tools I've been more focused on:
+
+
+    Java | Selenium | Cucumber
+
+
+🔎Spoken languages here:
+
+
+    English: advanced | Portuguese: native
+    
+
+🔎My social networks: 
+
+
+[![Linkedin](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/felipefbonomo)  [![Linkedin](https://icons.iconarchive.com/icons/designbolts/free-instagram/32/Active-Instagram-3-icon.png)](https://www.instagram.com/felipebonomo)
